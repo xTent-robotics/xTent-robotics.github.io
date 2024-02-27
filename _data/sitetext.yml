@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: XTa, An innovative robotic tentacle for inspection!
     # text: Xta, An innovative robotic tentacle for inspection
     button: More
-    # buttonlink: "#services"
+    buttonlink: "#about"
 
   timeline:
     title: "Timeline"
