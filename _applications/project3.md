@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Search and rescue operations
+  title: Nuclear power plant inspection
   subtitle: Graphic Design
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
