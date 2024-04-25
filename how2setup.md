@@ -1,0 +1,9 @@
+## How to setup guide
+
+* `Install [Docker](https://docs.docker.com/engine/install/)`
+* `git clone https://github.com/xTent-robotics/xTent-robotics.github.io.git`
+* Follow the [instructions](https://github.com/ashBabu/Utilities/wiki/Useful#jekyll-github-pages-using-docker) to get it up and
+running in a browser
+* Under `_data` edit the `navigation.yml` and `sitetext.yml` as required
+* Under `_layouts`, `home.html` filters the ones that needs to be added to the website
+* There is a `_config.yml` which if edited, need to be reloaded by `Ctrl+C` on terminal and rerun `docker run -p 4000:4000 -v $(pwd):/site jekyll-serve`
