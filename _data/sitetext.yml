@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#about"
 
   services:
-    title: "Services"
+    title: "Remote Accessibility Services"
     text: ""
     section: services
     list:
