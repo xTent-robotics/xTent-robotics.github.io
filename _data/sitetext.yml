@@ -47,6 +47,7 @@ en: &DEFAULT_EN
       - title: "Oil and gas pipeline inspection"
       - title: "Nuclear power plant inspection"
       - title: "Search and rescue operations"
+      - title: "Harvesting application "
 
   timeline:
     title: "Timeline"
