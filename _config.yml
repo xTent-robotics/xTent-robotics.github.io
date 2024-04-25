@@ -18,7 +18,7 @@ url    : "https://xtent-robotics.github.io/"  # the base hostname & protocol for
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : XTent
-email      : xtent.official@gmail.com #this is also the email contact forms will go to
+email      : ash.babu@xtent.co.uk #this is also the email contact forms will go to
 description: "A robotic tentacle for inspection"
 author     : xtent-robotics
 # logo:     #optional, defaults to site title
