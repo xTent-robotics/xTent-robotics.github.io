@@ -6,11 +6,11 @@ alt: Keep Exploring
 
 caption:
   title: Nuclear power plant inspection
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  subtitle: Our robotic tentacles are invaluable in the hazardous environments of nuclear power plants, where human access is restricted due to safety concerns. 
+  thumbnail:  ../assets/img/applications/nuclear_power_plants.jpeg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Our robotic tentacles are invaluable in the hazardous environments of nuclear power plants, where human access is restricted due to safety concerns. 
 
 {:.list-inline}
 

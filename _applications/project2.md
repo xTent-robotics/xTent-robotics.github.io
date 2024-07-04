@@ -6,8 +6,8 @@ alt: Keep Exploring
 
 caption:
   title: Search and rescue operations
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  subtitle: In post-earthquake scenarios, these nimble tentacles swiftly explore debris and rubble, providing crucial insights and aiding in rescue efforts.
+  thumbnail: ../assets/img/applications/search_rescue.jpeg
 ---
 
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!

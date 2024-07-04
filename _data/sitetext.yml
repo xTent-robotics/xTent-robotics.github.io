@@ -43,7 +43,7 @@ en: &DEFAULT_EN
     # body: "XTent brings in disruptive technology for the inspection of pipelines and extremely small holes with our highly flexible, slender and eXtentable Robotic Tentacle, Xta. Xta is 25mm in diameter and its length is customizable from less than a meter to a few meters."
     section: applications
     list:
-      - title: "Aircraft engine inspection"
+      - title: "Turbine and engine inspection"
       - title: "Oil and gas pipeline inspection"
       - title: "Nuclear power plant inspection"
       - title: "Search and rescue operations"
@@ -83,7 +83,8 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "XTent brings in disruptive technology for the inspection of pipelines and extremely small holes with our highly flexible, slender and eXtentable Robotic Tentacle, Xta. Xta is 25mm in diameter and its length is customizable from less than a meter to a few meters."
+    body: "Imagine a future where exploration and inspection are limitless. 
+          At Xtent, we are developing groundbreaking flexible robotic tentacles inspired by nature's design, like an octopus's arm. These tentacles can navigate confined spaces with unparalleled agility and precision, reaching areas traditional tools can't touch. With the ability to deform into any shape and maneuver through complex environments, our tentacles redefine accessibility and efficiency. Utilizing our patent-pending technology and advanced control systems, Xtent empowers industries from aerospace to infrastructure maintenance. Join us in revolutionizing exploration and inspection capabilities—because the future is flexible, and it's here with Xtent."
     section: about
 
   clients:
@@ -113,6 +114,7 @@ en: &DEFAULT_EN
       - name: "Ash Babu"
         role: "Chief Executive Officer"
         image: assets/img/team/ashbabu.jpeg
+        text: "I hold a Ph.D. in robotics from the Indian Institute of Science, Bangalore, building on a foundation in mechanical engineering. With over six years of post-doctoral & industrial experience in robotics at various UK-based startups, I bring in invaluable expertise to our leadership."
         social:
           # - url: https://twitter.com
           # icon: fab fa-twitter
@@ -120,9 +122,10 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/dr-ashithbabu/
             icon: fab fa-linkedin-in
-      - name: "Ashwin KP"
+      - name: "Ashwin Prabhakaran"
         role: "Director"
         image: assets/img/team/ashwin_k_p.jpg
+        text: "I drive the R&D initiatives at Xtent as our technical lead and robotics hardware engineer. A mechanical engineer by training with a Ph.D. in robotics from the Indian Institute of Science, Bangalore, I have over 8 years of experience in new product design and development across multinational corporations, startups, and academia."
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
