@@ -7,6 +7,7 @@ running in a browser
 * Under `_data` edit the `navigation.yml` and `sitetext.yml` as required
 * Under `_layouts`, `home.html` filters the ones that needs to be added to the website
 * There is a `_config.yml` which if edited, need to be reloaded by `Ctrl+C` on terminal and rerun `docker run -p 4000:4000 -v $(pwd):/site jekyll-serve`
+* To change the header image's properties, edit the [_masthead.scss](/_sass/layout/_masthead.scss_)
 
 ### Setting up the contact
 * Go to [formspree](https://formspree.io/) and create an account
