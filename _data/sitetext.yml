@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   applications:
     title: "Applications"
-    text: "Our products find applications in the following"
+    text: "Our products find applications in the following sectors"
     # body: "XTent brings in disruptive technology for the inspection of pipelines and extremely small holes with our highly flexible, slender and eXtentable Robotic Tentacle, Xta. Xta is 25mm in diameter and its length is customizable from less than a meter to a few meters."
     section: applications
     list:
