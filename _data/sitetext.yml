@@ -48,6 +48,11 @@ en: &DEFAULT_EN
       - title: "Nuclear power plant inspection"
       - title: "Search and rescue operations"
       - title: "Harvesting application "
+  
+  videos:
+    title: "Xta in action"
+    text: ""
+    section: Xta Demonstration
 
   timeline:
     title: "Timeline"
