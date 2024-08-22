@@ -83,5 +83,18 @@
     }
   }
 </script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="assets/js/slick.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.video-slider').slick({
+      infinite: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      arrows: true,
+      dots: true,
+    });
+  });
+</script>
 {% endif %}
 <!-- End Footer -->
