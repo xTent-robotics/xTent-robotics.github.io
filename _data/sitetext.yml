@@ -40,19 +40,19 @@ en: &DEFAULT_EN
   applications:
     title: "Applications"
     text: "Our products find applications in the following sectors"
-    # body: "XTent brings in disruptive technology for the inspection of pipelines and extremely small holes with our highly flexible, slender and eXtentable Robotic Tentacle, Xta. Xta is 25mm in diameter and its length is customizable from less than a meter to a few meters."
     section: applications
-    list:
-      - title: "Turbine and engine inspection"
-      - title: "Oil and gas pipeline inspection"
-      - title: "Nuclear power plant inspection"
-      - title: "Search and rescue operations"
-      - title: "Harvesting application "
+    # list:
+    #   - title: "Turbine and engine inspection"
+    #   - title: "Oil and gas pipeline inspection"
+    #   - title: "Nuclear power plant inspection"
+    #   - title: "Search and rescue operations"
+    #   - title: "Harvesting application "
   
   videos:
     title: "Xta in action"
     text: ""
-    section: Xta Demonstration
+    section: videos
+    # closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
