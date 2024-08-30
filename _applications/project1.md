@@ -1,11 +1,11 @@
 ---
-title: Oil & gas pipeline inspection
+title: Oil & gas pipeline 
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: ../assets/img/applications/pipelines.jpeg
 alt: Shirts on a hanger
 
 caption:
-  title: Oil & gas pipeline inspection
+  title: Oil & gas pipeline 
   subtitle: In pipelines, our tentacles surpass the limitations of conventional scopes, effortlessly navigating bends and traversing lengths that were once inaccessible. 
   thumbnail: ../assets/img/applications/pipelines.jpeg
 ---

@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Underwater inspection
+  title: Underwater 
   subtitle: For underwater inspections, Xtent's tentacles shine in exploring intricate underwater structures and shipwrecks, overcoming the challenges of deep-sea environments with precision and resilience.
   thumbnail:  ../assets/img/applications/underwater.jpeg
 ---

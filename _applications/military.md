@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Military inspection
+  title: Military 
   subtitle: Designed to navigate dense terrain and urban environments, our advanced tool provides essential data gathering capabilities while ensuring the safety of personnel during delicate operations.
   thumbnail:  ../assets/img/applications/military.jpeg
 ---

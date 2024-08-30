@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Search and rescue operations
+  title: Search and rescue 
   subtitle: In post-earthquake scenarios, these nimble tentacles swiftly explore debris and rubble, providing crucial insights and aiding in rescue efforts.
   thumbnail: ../assets/img/applications/search_rescue.jpeg
 ---

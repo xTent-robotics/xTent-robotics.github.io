@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Turbine & engine inspection
+  title: Turbine & engine
   subtitle: Our tentacles can be safely deployed to inspect the intricate blades deep inside a gas turbine engine, where precision and thoroughness are paramount.
   thumbnail: ../assets/img/applications/enginew.jpeg
   
