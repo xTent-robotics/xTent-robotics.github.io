@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Applications"
       section: applications
+    - title: "Services"
+      section: services
     - title: "Videos"
       section: videos
     - title: "Team"

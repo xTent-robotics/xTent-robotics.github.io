@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "New product development"
+        desc: "We undertake robot development right from conceptual to CAD design to prototyping."
+        image: /assets/img/services/new_product.png #find more at https://fontawesome.com/icons
+      - title: "Algorithms"
+        desc: "Custom algorithms for localization, mapping, 3D reconstruction, ROS2"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Deep learning"
+        desc: "Training, testing and deployment of deep learning models for custom datasets"
+        image: /assets/img/services/deep-learning.png
 
   portfolio:
     title: "Portfolio"
@@ -50,9 +50,16 @@ en: &DEFAULT_EN
       - title: "Harvesting application "
   
   videos:
-    title: "Xta in action"
+    title: "Videos"
     text: ""
     section: Xta Demonstration
+    list:
+      - id: "nqUAzFt0lPk?si=M6HP8ecm8YJPzZpq"
+        title: "XTa in action"
+        subtitle: "Dexterous hand-held soft-robot for inspection."
+      - id: "jkYsXW_LLcQ" 
+        title: "3D environment reconstruction"
+        subtitle: "SLAM demo in simulation"
 
   timeline:
     title: "Timeline"
@@ -88,8 +95,19 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: ""
-    body: "Imagine a future where exploration and inspection are limitless. 
-          At Xtent, we are developing groundbreaking flexible robotic tentacles inspired by nature's design, like an octopus's arm. These tentacles can navigate confined spaces with unparalleled agility and precision, reaching areas traditional tools can't touch. With the ability to deform into any shape and maneuver through complex environments, our tentacles redefine accessibility and efficiency. Utilizing our patent-pending technology and advanced control systems, Xtent empowers industries from aerospace to infrastructure maintenance. Join us in revolutionizing exploration and inspection capabilities—because the future is flexible, and it's here with Xtent."
+    body: |
+          Imagine a future where exploration and inspection are limitless. 
+          At Xtent, we are developing groundbreaking flexible robotic tentacles inspired by nature's design, like an octopus's arm.
+          These tentacles can navigate confined spaces with unparalleled agility and precision, reaching areas traditional tools can't 
+          touch. With the ability to deform into any shape and maneuver through complex environments, our tentacles redefine accessibility 
+          and efficiency. Utilizing our patent-pending technology and advanced control systems, Xtent empowers industries from aerospace 
+          to infrastructure maintenance. Join us in revolutionizing exploration and inspection capabilities—because the future is
+          flexible, and it's here with Xtent.
+
+
+          We also provide services from conceptualization, CAD design and prototyping of new robots including specialized algorithms for
+          ground and aerial robots, robot arms, motion planning and control, deep learning for object detction and simultaneous localization
+          and mapping
     section: about
 
   clients:
